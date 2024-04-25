@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI in Healthcare</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        .header { background: #4CAF50; color: white; padding: 20px; text-align: center; }
+        nav { background: #333; color: white; padding: 10px 0; text-align: center; }
+        nav a { color: white; padding: 14px 20px; text-decoration: none; }
+        nav a:hover { background: #ddd; color: black; }
+        .content { padding: 20px; margin-top: 20px; }
+        footer { background: #333; color: white; text-align: center; padding: 10px; position: fixed; width: 100%; bottom: 0; }
+        .link-box { margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Artificial Intelligence in Healthcare</h1>
+        <p>Transforming Modern Medicine</p>
+    </div>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="applications.html">AI Applications</a>
+        <a href="challenges.html">Benefits & Challenges</a>
+    </nav>
+    <div class="content">
+        <h2>Welcome to AI in Healthcare</h2>
+        <p>Explore how Artificial Intelligence is revolutionizing healthcare by enhancing diagnostic precision, optimizing treatment protocols, and improving patient outcomes.</p>
+        <div class="link-box">
+            <h3>Learn More:</h3>
+            <a href="https://www.ibm.com/watson-health">IBM Watson Health</a> | 
+            <a href="https://deepmind.com/research/case-studies/ai-helps-doctors-make-sense-of-data">Google DeepMind</a>
+        </div>
+    </div>
+    <footer>
+        <p>Contact Us: info@aihealthcare.com</p>
+    </footer>
+</body>
+</html>
